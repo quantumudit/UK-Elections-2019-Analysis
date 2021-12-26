@@ -21,7 +21,7 @@
 
 ## Overview
 
-This project focuses on analyzing and visualizing the United Kingdom elections-2018 results.
+This project focuses on analyzing and visualizing the United Kingdom elections-2019 results.
 
 The repository directory structure is as follows:
 
