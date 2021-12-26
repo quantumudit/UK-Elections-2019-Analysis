@@ -1,0 +1,651 @@
+ConstituencyID,Constituency Name,Party,Majority,Majority Group,Party Group,PartyGroupSort
+W07000049,Aberavon,LAB,10490,High,LAB,2
+W07000058,Aberconwy,CON,2034,Low,CON,1
+S14000001,Aberdeen North,SNP,12670,High,SNP,3
+S14000002,Aberdeen South,SNP,3990,Low,SNP,3
+S14000003,Airdrie and Shotts,SNP,5201,Medium,SNP,3
+E14000530,Aldershot,CON,16698,High,CON,1
+E14000531,Aldridge-Brownhills,CON,19836,High,CON,1
+E14000532,Altrincham and Sale West,CON,6139,Medium,CON,1
+W07000043,Alyn and Deeside,LAB,213,Very Low,LAB,2
+E14000533,Amber Valley,CON,16886,High,CON,1
+S14000004,Angus,SNP,3795,Low,SNP,3
+W07000057,Arfon,PC,2781,Low,Others,6
+S14000005,Argyll and Bute,SNP,4110,Low,SNP,3
+E14000534,Arundel and South Downs,CON,22521,Very High,CON,1
+E14000535,Ashfield,CON,5733,Medium,CON,1
+E14000536,Ashford,CON,24029,Very High,CON,1
+E14000537,Ashton-Under-Lyne,LAB,4263,Low,LAB,2
+E14000538,Aylesbury,CON,17373,High,CON,1
+S14000006,"Ayr, Carrick and Cumnock",SNP,2329,Low,SNP,3
+E14000539,Banbury,CON,16813,High,CON,1
+S14000007,Banff and Buchan,CON,4118,Low,CON,1
+E14000540,Barking,LAB,15427,High,LAB,2
+E14000541,Barnsley Central,LAB,3571,Low,LAB,2
+E14000542,Barnsley East,LAB,3217,Low,LAB,2
+E14000543,Barrow and Furness,CON,5789,Medium,CON,1
+E14000544,Basildon and Billericay,CON,20412,Very High,CON,1
+E14000545,Basingstoke,CON,14198,High,CON,1
+E14000546,Bassetlaw,CON,14013,High,CON,1
+E14000547,Bath,LD,12322,High,LD,4
+E14000548,Batley and Spen,LAB,3525,Low,LAB,2
+E14000549,Battersea,LAB,5668,Medium,LAB,2
+E14000550,Beaconsfield,CON,15712,High,CON,1
+E14000551,Beckenham,CON,14258,High,CON,1
+E14000552,Bedford,LAB,145,Very Low,LAB,2
+N06000001,Belfast East,DUP,1819,Low,DUP,5
+N06000002,Belfast North,SF,1943,Low,Others,6
+N06000003,Belfast South,SDLP,15401,High,Others,6
+N06000004,Belfast West,SF,14672,High,Others,6
+E14000553,Bermondsey and Old Southwark,LAB,16126,High,LAB,2
+S14000008,"Berwickshire, Roxburgh and Selkirk",CON,5148,Medium,CON,1
+E14000554,Berwick-Upon-Tweed,CON,14835,High,CON,1
+E14000555,Bethnal Green and Bow,LAB,37524,Very High,LAB,2
+E14000556,Beverley and Holderness,CON,20448,Very High,CON,1
+E14000557,Bexhill and Battle,CON,26059,Very High,CON,1
+E14000558,Bexleyheath and Crayford,CON,13103,High,CON,1
+E14000559,Birkenhead,LAB,17705,High,LAB,2
+E14000560,"Birmingham, Edgbaston",LAB,5614,Medium,LAB,2
+E14000561,"Birmingham, Erdington",LAB,3601,Low,LAB,2
+E14000562,"Birmingham, Hall Green",LAB,28508,Very High,LAB,2
+E14000563,"Birmingham, Hodge Hill",LAB,28655,Very High,LAB,2
+E14000564,"Birmingham, Ladywood",LAB,28582,Very High,LAB,2
+E14000565,"Birmingham, Northfield",CON,1640,Low,CON,1
+E14000566,"Birmingham, Perry Barr",LAB,15317,High,LAB,2
+E14000567,"Birmingham, Selly Oak",LAB,12414,High,LAB,2
+E14000568,"Birmingham, Yardley",LAB,10659,High,LAB,2
+E14000569,Bishop Auckland,CON,7962,Medium,CON,1
+E14000570,Blackburn,LAB,18304,High,LAB,2
+E14000571,Blackley and Broughton,LAB,14402,High,LAB,2
+E14000572,Blackpool North and Cleveleys,CON,8596,Medium,CON,1
+E14000573,Blackpool South,CON,3690,Low,CON,1
+W07000072,Blaenau Gwent,LAB,8647,Medium,LAB,2
+E14000574,Blaydon,LAB,5531,Medium,LAB,2
+E14000575,Blyth Valley,CON,712,Very Low,CON,1
+E14000576,Bognor Regis and Littlehampton,CON,22503,Very High,CON,1
+E14000577,Bolsover,CON,5299,Medium,CON,1
+E14000578,Bolton North East,CON,378,Very Low,CON,1
+E14000579,Bolton South East,LAB,7598,Medium,LAB,2
+E14000580,Bolton West,CON,8855,Medium,CON,1
+E14000581,Bootle,LAB,34556,Very High,LAB,2
+E14000582,Boston and Skegness,CON,25621,Very High,CON,1
+E14000583,Bosworth,CON,26278,Very High,CON,1
+E14000584,Bournemouth East,CON,8806,Medium,CON,1
+E14000585,Bournemouth West,CON,10150,High,CON,1
+E14000586,Bracknell,CON,19829,High,CON,1
+E14000587,Bradford East,LAB,18144,High,LAB,2
+E14000588,Bradford South,LAB,2346,Low,LAB,2
+E14000589,Bradford West,LAB,27019,Very High,LAB,2
+E14000590,Braintree,CON,24673,Very High,CON,1
+W07000068,Brecon and Radnorshire,CON,7131,Medium,CON,1
+E14000591,Brent Central,LAB,20870,Very High,LAB,2
+E14000593,Brentford and Isleworth,LAB,10514,High,LAB,2
+E14000592,Brent North,LAB,8079,Medium,LAB,2
+E14000594,Brentwood and Ongar,CON,29065,Very High,CON,1
+W07000073,Bridgend,CON,1157,Low,CON,1
+E14000595,Bridgwater and West Somerset,CON,24439,Very High,CON,1
+E14000596,Brigg and Goole,CON,21941,Very High,CON,1
+E14000597,"Brighton, Kemptown",LAB,8061,Medium,LAB,2
+E14000598,"Brighton, Pavilion",GREEN,19940,High,Others,6
+E14000599,Bristol East,LAB,10794,High,LAB,2
+E14000600,Bristol North West,LAB,5692,Medium,LAB,2
+E14000601,Bristol South,LAB,9859,Medium,LAB,2
+E14000602,Bristol West,LAB,28219,Very High,LAB,2
+E14000603,Broadland,CON,21861,Very High,CON,1
+E14000604,Bromley and Chislehurst,CON,10891,High,CON,1
+E14000605,Bromsgrove,CON,23106,Very High,CON,1
+E14000606,Broxbourne,CON,19807,High,CON,1
+E14000607,Broxtowe,CON,5331,Medium,CON,1
+E14000608,Buckingham,CON,20411,Very High,CON,1
+E14000609,Burnley,CON,1352,Low,CON,1
+E14000610,Burton,CON,14496,High,CON,1
+E14000611,Bury North,CON,105,Very Low,CON,1
+E14000612,Bury South,CON,402,Very Low,CON,1
+E14000613,Bury St Edmunds,CON,24988,Very High,CON,1
+W07000076,Caerphilly,LAB,6833,Medium,LAB,2
+S14000009,"Caithness, Sutherland and Easter Ross",LD,204,Very Low,LD,4
+E14000614,Calder Valley,CON,5774,Medium,CON,1
+E14000615,Camberwell and Peckham,LAB,33780,Very High,LAB,2
+E14000616,Camborne and Redruth,CON,8700,Medium,CON,1
+E14000617,Cambridge,LAB,9639,Medium,LAB,2
+E14000618,Cannock Chase,CON,19879,High,CON,1
+E14000619,Canterbury,LAB,1836,Low,LAB,2
+W07000050,Cardiff Central,LAB,17179,High,LAB,2
+W07000051,Cardiff North,LAB,6982,Medium,LAB,2
+W07000080,Cardiff South and Penarth,LAB,12737,High,LAB,2
+W07000079,Cardiff West,LAB,10986,High,LAB,2
+E14000620,Carlisle,CON,8319,Medium,CON,1
+W07000067,Carmarthen East and Dinefwr,PC,1809,Low,Others,6
+W07000066,Carmarthen West and South Pembrokeshire,CON,7745,Medium,CON,1
+E14000621,Carshalton and Wallington,CON,629,Very Low,CON,1
+E14000622,Castle Point,CON,26634,Very High,CON,1
+S14000010,Central Ayrshire,SNP,5304,Medium,SNP,3
+E14000623,Central Devon,CON,17721,High,CON,1
+E14000624,Central Suffolk and North Ipswich,CON,23391,Very High,CON,1
+W07000064,Ceredigion,PC,6329,Medium,Others,6
+E14000625,Charnwood,CON,22397,Very High,CON,1
+E14000626,Chatham and Aylesford,CON,18540,High,CON,1
+E14000627,Cheadle,CON,2336,Low,CON,1
+E14000628,Chelmsford,CON,17621,High,CON,1
+E14000629,Chelsea and Fulham,CON,11241,High,CON,1
+E14000630,Cheltenham,CON,981,Very Low,CON,1
+E14000631,Chesham and Amersham,CON,16223,High,CON,1
+E14000632,Chesterfield,LAB,1451,Low,LAB,2
+E14000633,Chichester,CON,21490,Very High,CON,1
+E14000634,Chingford and Woodford Green,CON,1262,Low,CON,1
+E14000635,Chippenham,CON,11288,High,CON,1
+E14000636,Chipping Barnet,CON,1212,Low,CON,1
+E14000637,Chorley,SPK,17392,High,Others,6
+E14000638,Christchurch,CON,24617,Very High,CON,1
+E14000639,Cities Of London and Westminster,CON,3953,Low,CON,1
+E14000640,City Of Chester,LAB,6164,Medium,LAB,2
+E14000641,City Of Durham,LAB,5025,Medium,LAB,2
+E14000642,Clacton,CON,24702,Very High,CON,1
+E14000643,Cleethorpes,CON,21418,Very High,CON,1
+W07000062,Clwyd South,CON,1239,Low,CON,1
+W07000059,Clwyd West,CON,6747,Medium,CON,1
+S14000011,"Coatbridge, Chryston and Bellshill",SNP,5624,Medium,SNP,3
+E14000644,Colchester,CON,9423,Medium,CON,1
+E14000645,Colne Valley,CON,5103,Medium,CON,1
+E14000646,Congleton,CON,18561,High,CON,1
+E14000647,Copeland,CON,5842,Medium,CON,1
+E14000648,Corby,CON,10268,High,CON,1
+E14000649,Coventry North East,LAB,7692,Medium,LAB,2
+E14000650,Coventry North West,LAB,208,Very Low,LAB,2
+E14000651,Coventry South,LAB,401,Very Low,LAB,2
+E14000652,Crawley,CON,8360,Medium,CON,1
+E14000653,Crewe and Nantwich,CON,8508,Medium,CON,1
+E14000654,Croydon Central,LAB,5949,Medium,LAB,2
+E14000655,Croydon North,LAB,24673,Very High,LAB,2
+E14000656,Croydon South,CON,12339,High,CON,1
+S14000012,"Cumbernauld, Kilsyth and Kirkintilloch East",SNP,12976,High,SNP,3
+W07000070,Cynon Valley,LAB,8822,Medium,LAB,2
+E14000657,Dagenham and Rainham,LAB,293,Very Low,LAB,2
+E14000658,Darlington,CON,3294,Low,CON,1
+E14000659,Dartford,CON,19160,High,CON,1
+E14000660,Daventry,CON,26080,Very High,CON,1
+W07000042,Delyn,CON,865,Very Low,CON,1
+E14000661,Denton and Reddish,LAB,6175,Medium,LAB,2
+E14000662,Derby North,CON,2540,Low,CON,1
+E14000664,Derbyshire Dales,CON,17381,High,CON,1
+E14000663,Derby South,LAB,6019,Medium,LAB,2
+E14000665,Devizes,CON,23993,Very High,CON,1
+E14000666,Dewsbury,CON,1561,Low,CON,1
+E14000668,Doncaster Central,LAB,2278,Low,LAB,2
+E14000669,Doncaster North,LAB,2370,Low,LAB,2
+E14000667,Don Valley,CON,3630,Low,CON,1
+E14000670,Dover,CON,12278,High,CON,1
+E14000671,Dudley North,CON,11533,High,CON,1
+E14000672,Dudley South,CON,15565,High,CON,1
+E14000673,Dulwich and West Norwood,LAB,27310,Very High,LAB,2
+S14000013,Dumfries and Galloway,CON,1805,Low,CON,1
+S14000014,"Dumfriesshire, Clydesdale and Tweeddale",CON,3781,Low,CON,1
+S14000015,Dundee East,SNP,13375,High,SNP,3
+S14000016,Dundee West,SNP,12259,High,SNP,3
+S14000017,Dunfermline and West Fife,SNP,10699,High,SNP,3
+W07000061,Dwyfor Meirionnydd,PC,4740,Low,Others,6
+E14000674,Ealing Central and Acton,LAB,13300,High,LAB,2
+E14000675,Ealing North,LAB,12269,High,LAB,2
+E14000676,"Ealing, Southall",LAB,16084,High,LAB,2
+E14000677,Easington,LAB,6581,Medium,LAB,2
+N06000005,East Antrim,DUP,6706,Medium,DUP,5
+E14000684,Eastbourne,CON,4331,Low,CON,1
+E14000678,East Devon,CON,6708,Medium,CON,1
+S14000018,East Dunbartonshire,SNP,149,Very Low,SNP,3
+E14000679,East Ham,LAB,33176,Very High,LAB,2
+E14000680,East Hampshire,CON,19696,High,CON,1
+S14000019,"East Kilbride, Strathaven and Lesmahagow",SNP,13322,High,SNP,3
+E14000685,Eastleigh,CON,15607,High,CON,1
+N06000006,East Londonderry,DUP,9607,Medium,DUP,5
+S14000020,East Lothian,SNP,3886,Low,SNP,3
+S14000021,East Renfrewshire,SNP,5426,Medium,SNP,3
+E14000681,East Surrey,CON,24040,Very High,CON,1
+E14000682,East Worthing and Shoreham,CON,7474,Medium,CON,1
+E14000683,East Yorkshire,CON,22787,Very High,CON,1
+E14000686,Eddisbury,CON,18443,High,CON,1
+S14000022,Edinburgh East,SNP,10417,High,SNP,3
+S14000023,Edinburgh North and Leith,SNP,12808,High,SNP,3
+S14000024,Edinburgh South,LAB,11095,High,LAB,2
+S14000025,Edinburgh South West,SNP,11982,High,SNP,3
+S14000026,Edinburgh West,LD,3769,Low,LD,4
+E14000687,Edmonton,LAB,16015,High,LAB,2
+E14000688,Ellesmere Port and Neston,LAB,8764,Medium,LAB,2
+E14000689,Elmet and Rothwell,CON,17353,High,CON,1
+E14000690,Eltham,LAB,3197,Low,LAB,2
+E14000691,Enfield North,LAB,6492,Medium,LAB,2
+E14000692,"Enfield, Southgate",LAB,4450,Low,LAB,2
+E14000693,Epping Forest,CON,22173,Very High,CON,1
+E14000694,Epsom and Ewell,CON,17873,High,CON,1
+E14000695,Erewash,CON,10606,High,CON,1
+E14000696,Erith and Thamesmead,LAB,3758,Low,LAB,2
+E14000697,Esher and Walton,CON,2743,Low,CON,1
+E14000698,Exeter,LAB,10403,High,LAB,2
+S14000028,Falkirk,SNP,14948,High,SNP,3
+E14000699,Fareham,CON,26086,Very High,CON,1
+E14000700,Faversham and Mid Kent,CON,21976,Very High,CON,1
+E14000701,Feltham and Heston,LAB,7859,Medium,LAB,2
+N06000007,Fermanagh and South Tyrone,SF,57,Very Low,Others,6
+E14000702,Filton and Bradley Stoke,CON,5646,Medium,CON,1
+E14000703,Finchley and Golders Green,CON,6562,Medium,CON,1
+E14000704,Folkestone and Hythe,CON,21337,Very High,CON,1
+E14000705,Forest Of Dean,CON,15869,High,CON,1
+N06000008,Foyle,SDLP,17110,High,Others,6
+E14000706,Fylde,CON,16611,High,CON,1
+E14000707,Gainsborough,CON,22967,Very High,CON,1
+E14000708,Garston and Halewood,LAB,31624,Very High,LAB,2
+E14000709,Gateshead,LAB,7200,Medium,LAB,2
+E14000710,Gedling,CON,679,Very Low,CON,1
+E14000711,Gillingham and Rainham,CON,15119,High,CON,1
+S14000029,Glasgow Central,SNP,6474,Medium,SNP,3
+S14000030,Glasgow East,SNP,5566,Medium,SNP,3
+S14000031,Glasgow North,SNP,5601,Medium,SNP,3
+S14000032,Glasgow North East,SNP,2548,Low,SNP,3
+S14000033,Glasgow North West,SNP,8359,Medium,SNP,3
+S14000034,Glasgow South,SNP,9005,Medium,SNP,3
+S14000035,Glasgow South West,SNP,4900,Low,SNP,3
+S14000036,Glenrothes,SNP,11757,High,SNP,3
+E14000712,Gloucester,CON,10277,High,CON,1
+S14000037,Gordon,SNP,819,Very Low,SNP,3
+E14000713,Gosport,CON,23278,Very High,CON,1
+W07000046,Gower,LAB,1837,Low,LAB,2
+E14000714,Grantham and Stamford,CON,26003,Very High,CON,1
+E14000715,Gravesham,CON,15581,High,CON,1
+E14000716,Great Grimsby,CON,7331,Medium,CON,1
+E14000717,Great Yarmouth,CON,17663,High,CON,1
+E14000718,Greenwich and Woolwich,LAB,18464,High,LAB,2
+E14000719,Guildford,CON,3337,Low,CON,1
+E14000720,Hackney North and Stoke Newington,LAB,33188,Very High,LAB,2
+E14000721,Hackney South and Shoreditch,LAB,33985,Very High,LAB,2
+E14000722,Halesowen and Rowley Regis,CON,12074,High,CON,1
+E14000723,Halifax,LAB,2569,Low,LAB,2
+E14000724,Haltemprice and Howden,CON,20329,Very High,CON,1
+E14000725,Halton,LAB,18975,High,LAB,2
+E14000726,Hammersmith,LAB,17847,High,LAB,2
+E14000727,Hampstead and Kilburn,LAB,14188,High,LAB,2
+E14000728,Harborough,CON,17278,High,CON,1
+E14000729,Harlow,CON,14063,High,CON,1
+E14000730,Harrogate and Knaresborough,CON,9675,Medium,CON,1
+E14000731,Harrow East,CON,8170,Medium,CON,1
+E14000732,Harrow West,LAB,8692,Medium,LAB,2
+E14000733,Hartlepool,LAB,3595,Low,LAB,2
+E14000734,Harwich and North Essex,CON,20182,Very High,CON,1
+E14000735,Hastings and Rye,CON,4043,Low,CON,1
+E14000736,Havant,CON,21792,Very High,CON,1
+E14000737,Hayes and Harlington,LAB,9261,Medium,LAB,2
+E14000738,Hazel Grove,CON,4423,Low,CON,1
+E14000739,Hemel Hempstead,CON,14563,High,CON,1
+E14000740,Hemsworth,LAB,1180,Low,LAB,2
+E14000741,Hendon,CON,4230,Low,CON,1
+E14000742,Henley,CON,14053,High,CON,1
+E14000743,Hereford and South Herefordshire,CON,19686,High,CON,1
+E14000744,Hertford and Stortford,CON,19620,High,CON,1
+E14000745,Hertsmere,CON,21313,Very High,CON,1
+E14000746,Hexham,CON,10549,High,CON,1
+E14000747,Heywood and Middleton,CON,663,Very Low,CON,1
+E14000748,High Peak,CON,590,Very Low,CON,1
+E14000749,Hitchin and Harpenden,CON,6895,Medium,CON,1
+E14000750,Holborn and St Pancras,LAB,27763,Very High,LAB,2
+E14000751,Hornchurch and Upminster,CON,23308,Very High,CON,1
+E14000752,Hornsey and Wood Green,LAB,19242,High,LAB,2
+E14000753,Horsham,CON,21127,Very High,CON,1
+E14000754,Houghton and Sunderland South,LAB,3115,Low,LAB,2
+E14000755,Hove,LAB,17044,High,LAB,2
+E14000756,Huddersfield,LAB,4937,Low,LAB,2
+E14000757,Huntingdon,CON,19383,High,CON,1
+E14000758,Hyndburn,CON,2951,Low,CON,1
+E14000759,Ilford North,LAB,5218,Medium,LAB,2
+E14000760,Ilford South,LAB,24101,Very High,LAB,2
+S14000038,Inverclyde,SNP,7512,Medium,SNP,3
+S14000039,"Inverness, Nairn, Badenoch and Strathspey",SNP,10440,High,SNP,3
+E14000761,Ipswich,CON,5479,Medium,CON,1
+E14000762,Isle Of Wight,CON,23737,Very High,CON,1
+E14000763,Islington North,LAB,26188,Very High,LAB,2
+E14000764,Islington South and Finsbury,LAB,17328,High,LAB,2
+W07000077,Islwyn,LAB,5464,Medium,LAB,2
+E14000765,Jarrow,LAB,7120,Medium,LAB,2
+E14000766,Keighley,CON,2218,Low,CON,1
+E14000767,Kenilworth and Southam,CON,20353,Very High,CON,1
+E14000768,Kensington,CON,150,Very Low,CON,1
+E14000769,Kettering,CON,16765,High,CON,1
+S14000040,Kilmarnock and Loudoun,SNP,12659,High,SNP,3
+E14000770,Kingston and Surbiton,LD,10489,High,LD,4
+E14000771,Kingston upon Hull East,LAB,1239,Low,LAB,2
+E14000772,Kingston upon Hull North,LAB,7593,Medium,LAB,2
+E14000773,Kingston upon Hull West and Hessle,LAB,2856,Low,LAB,2
+E14000774,Kingswood,CON,11220,High,CON,1
+S14000041,Kirkcaldy and Cowdenbeath,SNP,1243,Low,SNP,3
+E14000775,Knowsley,LAB,39942,Very High,LAB,2
+N06000009,Lagan Valley,DUP,6499,Medium,DUP,5
+S14000042,Lanark and Hamilton East,SNP,5187,Medium,SNP,3
+E14000776,Lancaster and Fleetwood,LAB,2380,Low,LAB,2
+E14000777,Leeds Central,LAB,19270,High,LAB,2
+E14000778,Leeds East,LAB,5531,Medium,LAB,2
+E14000779,Leeds North East,LAB,17089,High,LAB,2
+E14000780,Leeds North West,LAB,10749,High,LAB,2
+E14000781,Leeds West,LAB,10564,High,LAB,2
+E14000782,Leicester East,LAB,6019,Medium,LAB,2
+E14000783,Leicester South,LAB,22675,Very High,LAB,2
+E14000784,Leicester West,LAB,4212,Low,LAB,2
+E14000785,Leigh,CON,1965,Low,CON,1
+E14000786,Lewes,CON,2457,Low,CON,1
+E14000789,"Lewisham, Deptford",LAB,32913,Very High,LAB,2
+E14000787,Lewisham East,LAB,17008,High,LAB,2
+E14000788,Lewisham West and Penge,LAB,21543,Very High,LAB,2
+E14000790,Leyton and Wanstead,LAB,20808,Very High,LAB,2
+E14000791,Lichfield,CON,23638,Very High,CON,1
+E14000792,Lincoln,CON,3514,Low,CON,1
+S14000043,Linlithgow and East Falkirk,SNP,11266,High,SNP,3
+E14000793,"Liverpool, Riverside",LAB,37043,Very High,LAB,2
+E14000794,"Liverpool, Walton",LAB,30520,Very High,LAB,2
+E14000795,"Liverpool, Wavertree",LAB,27085,Very High,LAB,2
+E14000796,"Liverpool, West Derby",LAB,29984,Very High,LAB,2
+S14000044,Livingston,SNP,13435,High,SNP,3
+W07000045,Llanelli,LAB,4670,Low,LAB,2
+E14000797,Loughborough,CON,7169,Medium,CON,1
+E14000798,Louth and Horncastle,CON,28868,Very High,CON,1
+E14000799,Ludlow,CON,23648,Very High,CON,1
+E14000800,Luton North,LAB,9247,Medium,LAB,2
+E14000801,Luton South,LAB,8756,Medium,LAB,2
+E14000802,Macclesfield,CON,10711,High,CON,1
+E14000803,Maidenhead,CON,18846,High,CON,1
+E14000804,Maidstone and The Weald,CON,21772,Very High,CON,1
+E14000805,Makerfield,LAB,4740,Low,LAB,2
+E14000806,Maldon,CON,30041,Very High,CON,1
+E14000807,Manchester Central,LAB,29089,Very High,LAB,2
+E14000808,"Manchester, Gorton",LAB,30339,Very High,LAB,2
+E14000809,"Manchester, Withington",LAB,27905,Very High,LAB,2
+E14000810,Mansfield,CON,16306,High,CON,1
+E14000811,Meon Valley,CON,23555,Very High,CON,1
+E14000812,Meriden,CON,22836,Very High,CON,1
+W07000071,Merthyr Tydfil and Rhymney,LAB,10606,High,LAB,2
+E14000813,Mid Bedfordshire,CON,24664,Very High,CON,1
+E14000814,Mid Derbyshire,CON,15385,High,CON,1
+E14000819,Middlesbrough,LAB,8395,Medium,LAB,2
+E14000820,Middlesbrough South and East Cleveland,CON,11626,High,CON,1
+E14000815,Mid Dorset and North Poole,CON,14898,High,CON,1
+S14000045,Midlothian,SNP,5705,Medium,SNP,3
+E14000816,Mid Norfolk,CON,22594,Very High,CON,1
+E14000817,Mid Sussex,CON,18197,High,CON,1
+N06000010,Mid Ulster,SF,9537,Medium,Others,6
+E14000818,Mid Worcestershire,CON,28018,Very High,CON,1
+E14000821,Milton Keynes North,CON,6255,Medium,CON,1
+E14000822,Milton Keynes South,CON,6944,Medium,CON,1
+E14000823,Mitcham and Morden,LAB,16482,High,LAB,2
+E14000824,Mole Valley,CON,12041,High,CON,1
+W07000054,Monmouth,CON,9982,Medium,CON,1
+W07000063,Montgomeryshire,CON,12138,High,CON,1
+S14000046,Moray,CON,513,Very Low,CON,1
+E14000825,Morecambe and Lunesdale,CON,6354,Medium,CON,1
+E14000826,Morley and Outwood,CON,11267,High,CON,1
+S14000047,Motherwell and Wishaw,SNP,6268,Medium,SNP,3
+S14000027,Na h-Eileanan An Iar,SNP,2438,Low,SNP,3
+W07000069,Neath,LAB,5637,Medium,LAB,2
+E14000829,Newark,CON,21816,Very High,CON,1
+E14000830,Newbury,CON,16047,High,CON,1
+E14000834,Newcastle-Under-Lyme,CON,7446,Medium,CON,1
+E14000831,Newcastle Upon Tyne Central,LAB,12278,High,LAB,2
+E14000832,Newcastle Upon Tyne East,LAB,15463,High,LAB,2
+E14000833,Newcastle Upon Tyne North,LAB,5765,Medium,LAB,2
+E14000827,New Forest East,CON,25251,Very High,CON,1
+E14000828,New Forest West,CON,24403,Very High,CON,1
+W07000055,Newport East,LAB,1992,Low,LAB,2
+W07000056,Newport West,LAB,902,Very Low,LAB,2
+N06000011,Newry and Armagh,SF,9287,Medium,Others,6
+E14000835,Newton Abbot,CON,17501,High,CON,1
+E14000836,"Normanton, Pontefract and Castleford",LAB,1276,Low,LAB,2
+E14000861,Northampton North,CON,5507,Medium,CON,1
+E14000862,Northampton South,CON,4697,Low,CON,1
+N06000012,North Antrim,DUP,12721,High,DUP,5
+S14000048,North Ayrshire and Arran,SNP,8521,Medium,SNP,3
+E14000837,North Cornwall,CON,14752,High,CON,1
+E14000838,North Devon,CON,14813,High,CON,1
+E14000839,North Dorset,CON,24301,Very High,CON,1
+N06000013,North Down,ALLIANCE,2968,Low,Others,6
+E14000840,North Durham,LAB,4742,Low,LAB,2
+E14000841,North East Bedfordshire,CON,24283,Very High,CON,1
+E14000842,North East Cambridgeshire,CON,29993,Very High,CON,1
+E14000843,North East Derbyshire,CON,12876,High,CON,1
+S14000049,North East Fife,LD,1316,Low,LD,4
+E14000844,North East Hampshire,CON,20211,Very High,CON,1
+E14000845,North East Hertfordshire,CON,18189,High,CON,1
+E14000846,North East Somerset,CON,14729,High,CON,1
+E14000847,North Herefordshire,CON,24856,Very High,CON,1
+E14000848,North Norfolk,CON,14395,High,CON,1
+E14000849,North Shropshire,CON,22949,Very High,CON,1
+E14000850,North Somerset,CON,17536,High,CON,1
+E14000851,North Swindon,CON,16171,High,CON,1
+E14000852,North Thanet,CON,17189,High,CON,1
+E14000853,North Tyneside,LAB,9561,Medium,LAB,2
+E14000854,North Warwickshire,CON,17956,High,CON,1
+E14000855,North West Cambridgeshire,CON,25983,Very High,CON,1
+E14000856,North West Durham,CON,1144,Low,CON,1
+E14000857,North West Hampshire,CON,26308,Very High,CON,1
+E14000858,North West Leicestershire,CON,20400,Very High,CON,1
+E14000859,North West Norfolk,CON,19922,High,CON,1
+E14000860,North Wiltshire,CON,17626,High,CON,1
+E14000863,Norwich North,CON,4738,Low,CON,1
+E14000864,Norwich South,LAB,12760,High,LAB,2
+E14000865,Nottingham East,LAB,17393,High,LAB,2
+E14000866,Nottingham North,LAB,4490,Low,LAB,2
+E14000867,Nottingham South,LAB,12568,High,LAB,2
+E14000868,Nuneaton,CON,13144,High,CON,1
+S14000050,Ochil and South Perthshire,SNP,4498,Low,SNP,3
+W07000074,Ogmore,LAB,7805,Medium,LAB,2
+E14000869,Old Bexley and Sidcup,CON,18952,High,CON,1
+E14000870,Oldham East and Saddleworth,LAB,1499,Low,LAB,2
+E14000871,Oldham West and Royton,LAB,11127,High,LAB,2
+S14000051,Orkney and Shetland,LD,2507,Low,LD,4
+E14000872,Orpington,CON,22378,Very High,CON,1
+E14000873,Oxford East,LAB,17832,High,LAB,2
+E14000874,Oxford West and Abingdon,LD,8943,Medium,LD,4
+S14000052,Paisley and Renfrewshire North,SNP,11902,High,SNP,3
+S14000053,Paisley and Renfrewshire South,SNP,10679,High,SNP,3
+E14000875,Pendle,CON,6186,Medium,CON,1
+E14000876,Penistone and Stocksbridge,CON,7210,Medium,CON,1
+E14000877,Penrith and The Border,CON,18519,High,CON,1
+S14000054,Perth and North Perthshire,SNP,7550,Medium,SNP,3
+E14000878,Peterborough,CON,2580,Low,CON,1
+E14000879,"Plymouth, Moor View",CON,12897,High,CON,1
+E14000880,"Plymouth, Sutton and Devonport",LAB,4757,Low,LAB,2
+W07000075,Pontypridd,LAB,5887,Medium,LAB,2
+E14000881,Poole,CON,19116,High,CON,1
+E14000882,Poplar and Limehouse,LAB,28904,Very High,LAB,2
+E14000883,Portsmouth North,CON,15780,High,CON,1
+E14000884,Portsmouth South,LAB,5363,Medium,LAB,2
+W07000065,Preseli Pembrokeshire,CON,5062,Medium,CON,1
+E14000885,Preston,LAB,12146,High,LAB,2
+E14000886,Pudsey,CON,3517,Low,CON,1
+E14000887,Putney,LAB,4774,Low,LAB,2
+E14000888,Rayleigh and Wickford,CON,31000,Very High,CON,1
+E14000889,Reading East,LAB,5924,Medium,LAB,2
+E14000890,Reading West,CON,4117,Low,CON,1
+E14000891,Redcar,CON,3527,Low,CON,1
+E14000892,Redditch,CON,16036,High,CON,1
+E14000893,Reigate,CON,18310,High,CON,1
+W07000052,Rhondda,LAB,11440,High,LAB,2
+E14000894,Ribble Valley,CON,18439,High,CON,1
+E14000896,Richmond Park,LD,7766,Medium,LD,4
+E14000895,Richmond (Yorks),CON,27210,Very High,CON,1
+E14000897,Rochdale,LAB,9668,Medium,LAB,2
+E14000898,Rochester and Strood,CON,17072,High,CON,1
+E14000899,Rochford and Southend East,CON,12286,High,CON,1
+E14000900,Romford,CON,17893,High,CON,1
+E14000901,Romsey and Southampton North,CON,10872,High,CON,1
+E14000902,Rossendale and Darwen,CON,9522,Medium,CON,1
+S14000055,"Ross, Skye and Lochaber",SNP,9443,Medium,SNP,3
+E14000904,Rotherham,LAB,3121,Low,LAB,2
+E14000903,Rother Valley,CON,6318,Medium,CON,1
+E14000905,Rugby,CON,13447,High,CON,1
+E14000906,"Ruislip, Northwood and Pinner",CON,16394,High,CON,1
+E14000907,Runnymede and Weybridge,CON,18270,High,CON,1
+E14000908,Rushcliffe,CON,7643,Medium,CON,1
+S14000056,Rutherglen and Hamilton West,SNP,5230,Medium,SNP,3
+E14000909,Rutland and Melton,CON,26924,Very High,CON,1
+E14000910,Saffron Walden,CON,27594,Very High,CON,1
+E14000911,Salford and Eccles,LAB,16327,High,LAB,2
+E14000912,Salisbury,CON,19736,High,CON,1
+E14000913,Scarborough and Whitby,CON,10270,High,CON,1
+E14000914,Scunthorpe,CON,6451,Medium,CON,1
+E14000915,Sedgefield,CON,4513,Low,CON,1
+E14000916,Sefton Central,LAB,15122,High,LAB,2
+E14000917,Selby and Ainsty,CON,20137,Very High,CON,1
+E14000918,Sevenoaks,CON,20818,Very High,CON,1
+E14000921,"Sheffield, Brightside and Hillsborough",LAB,12274,High,LAB,2
+E14000919,Sheffield Central,LAB,27273,Very High,LAB,2
+E14000922,"Sheffield, Hallam",LAB,712,Very Low,LAB,2
+E14000923,"Sheffield, Heeley",LAB,8520,Medium,LAB,2
+E14000920,Sheffield South East,LAB,4289,Low,LAB,2
+E14000924,Sherwood,CON,16186,High,CON,1
+E14000925,Shipley,CON,6242,Medium,CON,1
+E14000926,Shrewsbury and Atcham,CON,11217,High,CON,1
+E14000927,Sittingbourne and Sheppey,CON,24479,Very High,CON,1
+E14000928,Skipton and Ripon,CON,23694,Very High,CON,1
+E14000929,Sleaford and North Hykeham,CON,32565,Very High,CON,1
+E14000930,Slough,LAB,13640,High,LAB,2
+E14000931,Solihull,CON,21273,Very High,CON,1
+E14000932,Somerton and Frome,CON,19213,High,CON,1
+E14000955,"Southampton, Itchen",CON,4498,Low,CON,1
+E14000956,"Southampton, Test",LAB,6213,Medium,LAB,2
+N06000014,South Antrim,DUP,2689,Low,DUP,5
+E14000933,South Basildon and East Thurrock,CON,19922,High,CON,1
+E14000934,South Cambridgeshire,CON,2904,Low,CON,1
+E14000935,South Derbyshire,CON,19335,High,CON,1
+E14000936,South Dorset,CON,17153,High,CON,1
+N06000015,South Down,SF,1620,Low,Others,6
+E14000937,South East Cambridgeshire,CON,11490,High,CON,1
+E14000938,South East Cornwall,CON,20971,Very High,CON,1
+E14000957,Southend West,CON,14459,High,CON,1
+E14000939,South Holland and The Deepings,CON,30838,Very High,CON,1
+E14000940,South Leicestershire,CON,24004,Very High,CON,1
+E14000941,South Norfolk,CON,21275,Very High,CON,1
+E14000942,South Northamptonshire,CON,27761,Very High,CON,1
+E14000958,Southport,CON,4147,Low,CON,1
+E14000943,South Ribble,CON,11199,High,CON,1
+E14000944,South Shields,LAB,9585,Medium,LAB,2
+E14000945,South Staffordshire,CON,28250,Very High,CON,1
+E14000946,South Suffolk,CON,22897,Very High,CON,1
+E14000947,South Swindon,CON,6625,Medium,CON,1
+E14000948,South Thanet,CON,10587,High,CON,1
+E14000949,South West Bedfordshire,CON,18583,High,CON,1
+E14000950,South West Devon,CON,21430,Very High,CON,1
+E14000951,South West Hertfordshire,CON,14408,High,CON,1
+E14000952,South West Norfolk,CON,26195,Very High,CON,1
+E14000953,South West Surrey,CON,8817,Medium,CON,1
+E14000954,South West Wiltshire,CON,21630,Very High,CON,1
+E14000959,Spelthorne,CON,18393,High,CON,1
+E14000965,Stafford,CON,14377,High,CON,1
+E14000966,Staffordshire Moorlands,CON,16428,High,CON,1
+E14000960,St Albans,LD,6293,Medium,LD,4
+E14000967,Stalybridge and Hyde,LAB,2946,Low,LAB,2
+E14000961,St Austell and Newquay,CON,16526,High,CON,1
+E14000968,Stevenage,CON,8562,Medium,CON,1
+E14000962,St Helens North,LAB,12209,High,LAB,2
+E14000963,St Helens South and Whiston,LAB,19122,High,LAB,2
+S14000057,Stirling,SNP,9254,Medium,SNP,3
+E14000964,St Ives,CON,4280,Low,CON,1
+E14000969,Stockport,LAB,10039,High,LAB,2
+E14000970,Stockton North,LAB,1027,Low,LAB,2
+E14000971,Stockton South,CON,5260,Medium,CON,1
+E14000972,Stoke-On-Trent Central,CON,670,Very Low,CON,1
+E14000973,Stoke-On-Trent North,CON,6286,Medium,CON,1
+E14000974,Stoke-On-Trent South,CON,11271,High,CON,1
+E14000975,Stone,CON,19945,High,CON,1
+E14000976,Stourbridge,CON,13571,High,CON,1
+N06000016,Strangford,DUP,7071,Medium,DUP,5
+E14000977,Stratford-On-Avon,CON,19972,High,CON,1
+E14000978,Streatham,LAB,17690,High,LAB,2
+E14000979,Stretford and Urmston,LAB,16417,High,LAB,2
+E14000980,Stroud,CON,3840,Low,CON,1
+E14000981,Suffolk Coastal,CON,20533,Very High,CON,1
+E14000982,Sunderland Central,LAB,2964,Low,LAB,2
+E14000983,Surrey Heath,CON,18349,High,CON,1
+E14000984,Sutton and Cheam,CON,8351,Medium,CON,1
+E14000985,Sutton Coldfield,CON,19272,High,CON,1
+W07000048,Swansea East,LAB,7970,Medium,LAB,2
+W07000047,Swansea West,LAB,8116,Medium,LAB,2
+E14000986,Tamworth,CON,19634,High,CON,1
+E14000987,Tatton,CON,17387,High,CON,1
+E14000988,Taunton Deane,CON,11700,High,CON,1
+E14000989,Telford,CON,10941,High,CON,1
+E14000990,Tewkesbury,CON,22410,Very High,CON,1
+E14000991,The Cotswolds,CON,20214,Very High,CON,1
+E14000992,The Wrekin,CON,18726,High,CON,1
+E14000993,Thirsk and Malton,CON,25154,Very High,CON,1
+E14000994,Thornbury and Yate,CON,12369,High,CON,1
+E14000995,Thurrock,CON,11482,High,CON,1
+E14000996,Tiverton and Honiton,CON,24239,Very High,CON,1
+E14000997,Tonbridge and Malling,CON,26941,Very High,CON,1
+E14000998,Tooting,LAB,14307,High,LAB,2
+E14000999,Torbay,CON,17749,High,CON,1
+W07000053,Torfaen,LAB,3742,Low,LAB,2
+E14001000,Torridge and West Devon,CON,24992,Very High,CON,1
+E14001001,Totnes,CON,12724,High,CON,1
+E14001002,Tottenham,LAB,30175,Very High,LAB,2
+E14001003,Truro and Falmouth,CON,4561,Low,CON,1
+E14001004,Tunbridge Wells,CON,14645,High,CON,1
+E14001005,Twickenham,LD,14121,High,LD,4
+E14001006,Tynemouth,LAB,4857,Low,LAB,2
+N06000017,Upper Bann,DUP,8210,Medium,DUP,5
+E14001007,Uxbridge and South Ruislip,CON,7210,Medium,CON,1
+W07000060,Vale Of Clwyd,CON,1827,Low,CON,1
+W07000078,Vale Of Glamorgan,CON,3562,Low,CON,1
+E14001008,Vauxhall,LAB,19612,High,LAB,2
+E14001009,Wakefield,CON,3358,Low,CON,1
+E14001010,Wallasey,LAB,18322,High,LAB,2
+E14001011,Walsall North,CON,11965,High,CON,1
+E14001012,Walsall South,LAB,3456,Low,LAB,2
+E14001013,Walthamstow,LAB,30862,Very High,LAB,2
+E14001014,Wansbeck,LAB,814,Very Low,LAB,2
+E14001015,Wantage,CON,12653,High,CON,1
+E14001016,Warley,LAB,11511,High,LAB,2
+E14001017,Warrington North,LAB,1509,Low,LAB,2
+E14001018,Warrington South,CON,2010,Low,CON,1
+E14001019,Warwick and Leamington,LAB,789,Very Low,LAB,2
+E14001020,Washington and Sunderland West,LAB,3723,Low,LAB,2
+E14001021,Watford,CON,4433,Low,CON,1
+E14001022,Waveney,CON,18002,High,CON,1
+E14001023,Wealden,CON,25655,Very High,CON,1
+E14001024,Weaver Vale,LAB,562,Very Low,LAB,2
+E14001025,Wellingborough,CON,18540,High,CON,1
+E14001026,Wells,CON,9991,Medium,CON,1
+E14001027,Welwyn Hatfield,CON,10955,High,CON,1
+E14001028,Wentworth and Dearne,LAB,2165,Low,LAB,2
+S14000058,West Aberdeenshire and Kincardine,CON,843,Very Low,CON,1
+E14001029,West Bromwich East,CON,1593,Low,CON,1
+E14001030,West Bromwich West,CON,3799,Low,CON,1
+E14001031,West Dorset,CON,14106,High,CON,1
+S14000059,West Dunbartonshire,SNP,9553,Medium,SNP,3
+E14001032,West Ham,LAB,32388,Very High,LAB,2
+E14001033,West Lancashire,LAB,8336,Medium,LAB,2
+E14001036,Westminster North,LAB,10759,High,LAB,2
+E14001037,Westmorland and Lonsdale,LD,1934,Low,LD,4
+E14001038,Weston-Super-Mare,CON,17121,High,CON,1
+E14001034,West Suffolk,CON,23194,Very High,CON,1
+N06000018,West Tyrone,SF,7478,Medium,Others,6
+E14001035,West Worcestershire,CON,24499,Very High,CON,1
+E14001039,Wigan,LAB,6728,Medium,LAB,2
+E14001040,Wimbledon,CON,628,Very Low,CON,1
+E14001041,Winchester,CON,985,Very Low,CON,1
+E14001042,Windsor,CON,20079,Very High,CON,1
+E14001043,Wirral South,LAB,6105,Medium,LAB,2
+E14001044,Wirral West,LAB,3003,Low,LAB,2
+E14001045,Witham,CON,24082,Very High,CON,1
+E14001046,Witney,CON,15177,High,CON,1
+E14001047,Woking,CON,9767,Medium,CON,1
+E14001048,Wokingham,CON,7383,Medium,CON,1
+E14001049,Wolverhampton North East,CON,4080,Low,CON,1
+E14001050,Wolverhampton South East,LAB,1235,Low,LAB,2
+E14001051,Wolverhampton South West,CON,1661,Low,CON,1
+E14001052,Worcester,CON,6758,Medium,CON,1
+E14001053,Workington,CON,4176,Low,CON,1
+E14001054,Worsley and Eccles South,LAB,3219,Low,LAB,2
+E14001055,Worthing West,CON,14823,High,CON,1
+W07000044,Wrexham,CON,2131,Low,CON,1
+E14001056,Wycombe,CON,4214,Low,CON,1
+E14001057,Wyre and Preston North,CON,16781,High,CON,1
+E14001058,Wyre Forest,CON,21413,Very High,CON,1
+E14001059,Wythenshawe and Sale East,LAB,10396,High,LAB,2
+E14001060,Yeovil,CON,16181,High,CON,1
+W07000041,Ynys Mon,CON,1968,Low,CON,1
+E14001061,York Central,LAB,13545,High,LAB,2
+E14001062,York Outer,CON,9985,Medium,CON,1
